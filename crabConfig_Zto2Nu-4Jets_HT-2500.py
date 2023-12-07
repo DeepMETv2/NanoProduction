@@ -8,6 +8,8 @@ config.General.instance = 'prod'
 
 config.JobType.pluginName = 'Analysis'
 config.JobType.psetName = 'deepmet_run3summer22_nanov12_cfg.py'
+config.JobType.maxMemoryMB = 5000
+config.JobType.numCores = 4
 
 config.Data.inputDataset = '/Zto2Nu-4Jets_HT-2500_TuneCP5_13p6TeV_madgraphMLM-pythia8/Run3Summer22MiniAODv4-130X_mcRun3_2022_realistic_v5-v2/MINIAODSIM'
 config.Data.splitting = 'Automatic'

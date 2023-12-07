@@ -18,6 +18,6 @@ cmsDriver.py --python_filename deepmet_run3summer22_nanov12_cfg.py \
 "EnableIMT=cms.untracked.bool(False)));"\
 "process.MessageLogger.cerr.FwkReport.reportEvery=1000;"\
 "process.NANOAODSIMoutput.fakeNameForCrab = cms.untracked.bool(True)"  \
--n 10 \
+--nThreads 4 -n 10 \
 --customise PhysicsTools/NanoAOD/custom_btv_cff.PrepBTVCustomNanoAOD_MC \
 --no_exec

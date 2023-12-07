@@ -8,6 +8,8 @@ config.General.instance = 'prod'
 
 config.JobType.pluginName = 'Analysis'
 config.JobType.psetName = '__psetName__'
+config.JobType.maxMemoryMB = 5000
+config.JobType.numCores = 4
 
 config.Data.inputDataset = '__inputDataset__'
 config.Data.splitting = 'Automatic'

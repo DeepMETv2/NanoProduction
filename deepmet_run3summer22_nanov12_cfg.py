@@ -2,7 +2,7 @@
 # using: 
 # Revision: 1.19 
 # Source: /local/reps/CMSSW/CMSSW/Configuration/Applications/python/ConfigBuilder.py,v 
-# with command line options: --python_filename deepmet_run3summer22_nanov12_cfg.py --step NANO --mc --conditions 130X_mcRun3_2022_realistic_v5 --era Run3 --eventcontent NANOAODSIM --datatier NANOAODSIM --filein /store/mc/Run3Summer22MiniAODv4/DYJetsToLL_M-50_TuneCP5_13p6TeV-madgraphMLM-pythia8/MINIAODSIM/forPOG_130X_mcRun3_2022_realistic_v5-v2/2520000/08252cf5-7cda-4c6d-b358-0db4779efc6f.root --fileout nanov12_deepmet.root --customise_commands=process.add_(cms.Service('InitRootHandlers',EnableIMT=cms.untracked.bool(False)));process.MessageLogger.cerr.FwkReport.reportEvery=1000;process.NANOAODSIMoutput.fakeNameForCrab = cms.untracked.bool(True) -n 10 --customise PhysicsTools/NanoAOD/custom_btv_cff.PrepBTVCustomNanoAOD_MC --no_exec
+# with command line options: --python_filename deepmet_run3summer22_nanov12_cfg.py --step NANO --mc --conditions 130X_mcRun3_2022_realistic_v5 --era Run3 --eventcontent NANOAODSIM --datatier NANOAODSIM --filein /store/mc/Run3Summer22MiniAODv4/DYJetsToLL_M-50_TuneCP5_13p6TeV-madgraphMLM-pythia8/MINIAODSIM/forPOG_130X_mcRun3_2022_realistic_v5-v2/2520000/08252cf5-7cda-4c6d-b358-0db4779efc6f.root --fileout nanov12_deepmet.root --customise_commands=process.add_(cms.Service('InitRootHandlers',EnableIMT=cms.untracked.bool(False)));process.MessageLogger.cerr.FwkReport.reportEvery=1000;process.NANOAODSIMoutput.fakeNameForCrab = cms.untracked.bool(True) --nThreads 4 -n 10 --customise PhysicsTools/NanoAOD/custom_btv_cff.PrepBTVCustomNanoAOD_MC --no_exec
 import FWCore.ParameterSet.Config as cms
 
 from Configuration.Eras.Era_Run3_cff import Run3
@@ -99,6 +99,10 @@ process.NANOAODSIMoutput_step = cms.EndPath(process.NANOAODSIMoutput)
 process.schedule = cms.Schedule(process.nanoAOD_step,process.endjob_step,process.NANOAODSIMoutput_step)
 from PhysicsTools.PatAlgos.tools.helpers import associatePatAlgosToolsTask
 associatePatAlgosToolsTask(process)
+
+#Setup FWK for multithreaded
+process.options.numberOfThreads = 4
+process.options.numberOfStreams = 0
 
 # customisation of the process.
 
