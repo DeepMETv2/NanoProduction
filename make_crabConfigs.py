@@ -12,8 +12,8 @@ Generate all crabConfig files using template.
 #                        storage site for crab jobs
 import argparse
 
-psetName = 'deepmet_run3summer22_nanov12_cfg.py' 
-tag = 'Run3Summer22NanoAODv12'
+psetName = 'deepmet_NanoAODv12_130X_cfg.py'
+outputDatasetTag = 'Run3Summer22NanoAODv12'
 
 jobs = [
 ['DYJetsToLL', 1200000,
@@ -55,7 +55,7 @@ def main():
     for name, nEvents, inputDataset in jobs:
         config_file = f'crabConfig_{name}.py'
         config_files.append(config_file)
-        requestName = f'{name}_{tag}'
+        requestName = f'{name}_{outputDatasetTag}'
 
         config = ''
         with open('template_crabConfig.py', 'r') as template:
@@ -63,6 +63,7 @@ def main():
                 line = line.replace('__requestName__', requestName)
                 line = line.replace('__psetName__', psetName)
                 line = line.replace('__inputDataset__', inputDataset)
+                line = line.replace('__outputDatasetTag__', outputDatasetTag)
                 line = line.replace('__nEvents__', str(nEvents))
                 line = line.replace('__outLFNDirBase__', outLFNDirBase)
                 line = line.replace('__storageSite__', storageSite)

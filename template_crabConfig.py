@@ -12,6 +12,7 @@ config.JobType.maxMemoryMB = 5000
 config.JobType.numCores = 4
 
 config.Data.inputDataset = '__inputDataset__'
+config.Data.outputDatasetTag = '__outputDatasetTag__'
 config.Data.splitting = 'Automatic'
 config.Data.totalUnits = __nEvents__
 config.Data.outLFNDirBase = '__outLFNDirBase__'
