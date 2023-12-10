@@ -1,0 +1,81 @@
+### DYJetsToLL
+/store/user/alejands/deepmet/DYJetsToLL_M-50_TuneCP5_13p6TeV-madgraphMLM-pythia8/Run3Summer22NanoAODv12/231208_223646/0000/nano_1-3.root
+/store/user/alejands/deepmet/DYJetsToLL_M-50_TuneCP5_13p6TeV-madgraphMLM-pythia8/Run3Summer22NanoAODv12/231208_223646/0000/nano_1-2.root
+/store/user/alejands/deepmet/DYJetsToLL_M-50_TuneCP5_13p6TeV-madgraphMLM-pythia8/Run3Summer22NanoAODv12/231208_223646/0000/nano_1-4.root
+/store/user/alejands/deepmet/DYJetsToLL_M-50_TuneCP5_13p6TeV-madgraphMLM-pythia8/Run3Summer22NanoAODv12/231208_223646/0000/nano_1-6.root
+/store/user/alejands/deepmet/DYJetsToLL_M-50_TuneCP5_13p6TeV-madgraphMLM-pythia8/Run3Summer22NanoAODv12/231208_223646/0000/nano_1-8.root
+/store/user/alejands/deepmet/DYJetsToLL_M-50_TuneCP5_13p6TeV-madgraphMLM-pythia8/Run3Summer22NanoAODv12/231208_223646/0000/nano_1-7.root
+/store/user/alejands/deepmet/DYJetsToLL_M-50_TuneCP5_13p6TeV-madgraphMLM-pythia8/Run3Summer22NanoAODv12/231208_223646/0000/nano_2.root
+/store/user/alejands/deepmet/DYJetsToLL_M-50_TuneCP5_13p6TeV-madgraphMLM-pythia8/Run3Summer22NanoAODv12/231208_223646/0000/nano_11.root
+/store/user/alejands/deepmet/DYJetsToLL_M-50_TuneCP5_13p6TeV-madgraphMLM-pythia8/Run3Summer22NanoAODv12/231208_223646/0000/nano_10.root
+/store/user/alejands/deepmet/DYJetsToLL_M-50_TuneCP5_13p6TeV-madgraphMLM-pythia8/Run3Summer22NanoAODv12/231208_223646/0000/nano_1-10.root
+/store/user/alejands/deepmet/DYJetsToLL_M-50_TuneCP5_13p6TeV-madgraphMLM-pythia8/Run3Summer22NanoAODv12/231208_223646/0000/nano_1-5.root
+/store/user/alejands/deepmet/DYJetsToLL_M-50_TuneCP5_13p6TeV-madgraphMLM-pythia8/Run3Summer22NanoAODv12/231208_223646/0000/nano_1-9.root
+/store/user/alejands/deepmet/DYJetsToLL_M-50_TuneCP5_13p6TeV-madgraphMLM-pythia8/Run3Summer22NanoAODv12/231208_223646/0000/nano_9.root
+/store/user/alejands/deepmet/DYJetsToLL_M-50_TuneCP5_13p6TeV-madgraphMLM-pythia8/Run3Summer22NanoAODv12/231208_223646/0000/nano_1-1.root
+/store/user/alejands/deepmet/DYJetsToLL_M-50_TuneCP5_13p6TeV-madgraphMLM-pythia8/Run3Summer22NanoAODv12/231208_223646/0000/nano_1-11.root
+### TTto2L2Nu
+/store/user/alejands/deepmet/TTto2L2Nu_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22NanoAODv12/231208_223659/0000/nano_11.root
+/store/user/alejands/deepmet/TTto2L2Nu_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22NanoAODv12/231208_223659/0000/nano_3.root
+/store/user/alejands/deepmet/TTto2L2Nu_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22NanoAODv12/231208_223659/0000/nano_1-2.root
+/store/user/alejands/deepmet/TTto2L2Nu_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22NanoAODv12/231208_223659/0000/nano_1-3.root
+/store/user/alejands/deepmet/TTto2L2Nu_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22NanoAODv12/231208_223659/0000/nano_1-1.root
+/store/user/alejands/deepmet/TTto2L2Nu_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22NanoAODv12/231208_223659/0000/nano_9.root
+/store/user/alejands/deepmet/TTto2L2Nu_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22NanoAODv12/231208_223659/0000/nano_5.root
+/store/user/alejands/deepmet/TTto2L2Nu_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22NanoAODv12/231208_223659/0000/nano_4.root
+/store/user/alejands/deepmet/TTto2L2Nu_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22NanoAODv12/231208_223659/0000/nano_10.root
+/store/user/alejands/deepmet/TTto2L2Nu_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22NanoAODv12/231208_223659/0000/nano_8.root
+/store/user/alejands/deepmet/TTto2L2Nu_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22NanoAODv12/231208_223659/0000/nano_12.root
+/store/user/alejands/deepmet/TTto2L2Nu_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22NanoAODv12/231208_223659/0000/nano_7.root
+/store/user/alejands/deepmet/TTto2L2Nu_TuneCP5_13p6TeV_powheg-pythia8/Run3Summer22NanoAODv12/231208_223659/0000/nano_6.root
+### Zto2Nu-4Jets_HT-100to200
+/store/user/alejands/deepmet/Zto2Nu-4Jets_HT-100to200_TuneCP5_13p6TeV_madgraphMLM-pythia8/Run3Summer22NanoAODv12/231208_223712/0000/nano_1.root
+/store/user/alejands/deepmet/Zto2Nu-4Jets_HT-100to200_TuneCP5_13p6TeV_madgraphMLM-pythia8/Run3Summer22NanoAODv12/231208_223712/0000/nano_2.root
+### Zto2Nu-4Jets_HT-200to400
+/store/user/alejands/deepmet/Zto2Nu-4Jets_HT-200to400_TuneCP5_13p6TeV_madgraphMLM-pythia8/Run3Summer22NanoAODv12/231208_223725/0000/nano_1.root
+/store/user/alejands/deepmet/Zto2Nu-4Jets_HT-200to400_TuneCP5_13p6TeV_madgraphMLM-pythia8/Run3Summer22NanoAODv12/231208_223725/0000/nano_1-1.root
+### Zto2Nu-4Jets_HT-400to800
+/store/user/alejands/deepmet/Zto2Nu-4Jets_HT-400to800_TuneCP5_13p6TeV_madgraphMLM-pythia8/Run3Summer22NanoAODv12/231208_223738/0000/nano_2.root
+/store/user/alejands/deepmet/Zto2Nu-4Jets_HT-400to800_TuneCP5_13p6TeV_madgraphMLM-pythia8/Run3Summer22NanoAODv12/231208_223738/0000/nano_5.root
+/store/user/alejands/deepmet/Zto2Nu-4Jets_HT-400to800_TuneCP5_13p6TeV_madgraphMLM-pythia8/Run3Summer22NanoAODv12/231208_223738/0000/nano_6.root
+/store/user/alejands/deepmet/Zto2Nu-4Jets_HT-400to800_TuneCP5_13p6TeV_madgraphMLM-pythia8/Run3Summer22NanoAODv12/231208_223738/0000/nano_1.root
+/store/user/alejands/deepmet/Zto2Nu-4Jets_HT-400to800_TuneCP5_13p6TeV_madgraphMLM-pythia8/Run3Summer22NanoAODv12/231208_223738/0000/nano_3.root
+/store/user/alejands/deepmet/Zto2Nu-4Jets_HT-400to800_TuneCP5_13p6TeV_madgraphMLM-pythia8/Run3Summer22NanoAODv12/231208_223738/0000/nano_4.root
+### Zto2Nu-4Jets_HT-800to1500
+/store/user/alejands/deepmet/Zto2Nu-4Jets_HT-800to1500_TuneCP5_13p6TeV_madgraphMLM-pythia8/Run3Summer22NanoAODv12/231208_223752/0000/nano_5.root
+/store/user/alejands/deepmet/Zto2Nu-4Jets_HT-800to1500_TuneCP5_13p6TeV_madgraphMLM-pythia8/Run3Summer22NanoAODv12/231208_223752/0000/nano_6.root
+/store/user/alejands/deepmet/Zto2Nu-4Jets_HT-800to1500_TuneCP5_13p6TeV_madgraphMLM-pythia8/Run3Summer22NanoAODv12/231208_223752/0000/nano_9.root
+/store/user/alejands/deepmet/Zto2Nu-4Jets_HT-800to1500_TuneCP5_13p6TeV_madgraphMLM-pythia8/Run3Summer22NanoAODv12/231208_223752/0000/nano_7.root
+/store/user/alejands/deepmet/Zto2Nu-4Jets_HT-800to1500_TuneCP5_13p6TeV_madgraphMLM-pythia8/Run3Summer22NanoAODv12/231208_223752/0000/nano_3.root
+/store/user/alejands/deepmet/Zto2Nu-4Jets_HT-800to1500_TuneCP5_13p6TeV_madgraphMLM-pythia8/Run3Summer22NanoAODv12/231208_223752/0000/nano_4.root
+/store/user/alejands/deepmet/Zto2Nu-4Jets_HT-800to1500_TuneCP5_13p6TeV_madgraphMLM-pythia8/Run3Summer22NanoAODv12/231208_223752/0000/nano_8.root
+/store/user/alejands/deepmet/Zto2Nu-4Jets_HT-800to1500_TuneCP5_13p6TeV_madgraphMLM-pythia8/Run3Summer22NanoAODv12/231208_223752/0000/nano_1.root
+/store/user/alejands/deepmet/Zto2Nu-4Jets_HT-800to1500_TuneCP5_13p6TeV_madgraphMLM-pythia8/Run3Summer22NanoAODv12/231208_223752/0000/nano_2.root
+### Zto2Nu-4Jets_HT-1500to2500
+/store/user/alejands/deepmet/Zto2Nu-4Jets_HT-1500to2500_TuneCP5_13p6TeV_madgraphMLM-pythia8/Run3Summer22NanoAODv12/231208_223805/0000/nano_13.root
+/store/user/alejands/deepmet/Zto2Nu-4Jets_HT-1500to2500_TuneCP5_13p6TeV_madgraphMLM-pythia8/Run3Summer22NanoAODv12/231208_223805/0000/nano_2.root
+/store/user/alejands/deepmet/Zto2Nu-4Jets_HT-1500to2500_TuneCP5_13p6TeV_madgraphMLM-pythia8/Run3Summer22NanoAODv12/231208_223805/0000/nano_10.root
+/store/user/alejands/deepmet/Zto2Nu-4Jets_HT-1500to2500_TuneCP5_13p6TeV_madgraphMLM-pythia8/Run3Summer22NanoAODv12/231208_223805/0000/nano_1-3.root
+/store/user/alejands/deepmet/Zto2Nu-4Jets_HT-1500to2500_TuneCP5_13p6TeV_madgraphMLM-pythia8/Run3Summer22NanoAODv12/231208_223805/0000/nano_3.root
+/store/user/alejands/deepmet/Zto2Nu-4Jets_HT-1500to2500_TuneCP5_13p6TeV_madgraphMLM-pythia8/Run3Summer22NanoAODv12/231208_223805/0000/nano_7.root
+/store/user/alejands/deepmet/Zto2Nu-4Jets_HT-1500to2500_TuneCP5_13p6TeV_madgraphMLM-pythia8/Run3Summer22NanoAODv12/231208_223805/0000/nano_1.root
+/store/user/alejands/deepmet/Zto2Nu-4Jets_HT-1500to2500_TuneCP5_13p6TeV_madgraphMLM-pythia8/Run3Summer22NanoAODv12/231208_223805/0000/nano_1-7.root
+/store/user/alejands/deepmet/Zto2Nu-4Jets_HT-1500to2500_TuneCP5_13p6TeV_madgraphMLM-pythia8/Run3Summer22NanoAODv12/231208_223805/0000/nano_1-1.root
+/store/user/alejands/deepmet/Zto2Nu-4Jets_HT-1500to2500_TuneCP5_13p6TeV_madgraphMLM-pythia8/Run3Summer22NanoAODv12/231208_223805/0000/nano_1-4.root
+/store/user/alejands/deepmet/Zto2Nu-4Jets_HT-1500to2500_TuneCP5_13p6TeV_madgraphMLM-pythia8/Run3Summer22NanoAODv12/231208_223805/0000/nano_1-8.root
+/store/user/alejands/deepmet/Zto2Nu-4Jets_HT-1500to2500_TuneCP5_13p6TeV_madgraphMLM-pythia8/Run3Summer22NanoAODv12/231208_223805/0000/nano_1-6.root
+/store/user/alejands/deepmet/Zto2Nu-4Jets_HT-1500to2500_TuneCP5_13p6TeV_madgraphMLM-pythia8/Run3Summer22NanoAODv12/231208_223805/0000/nano_1-5.root
+/store/user/alejands/deepmet/Zto2Nu-4Jets_HT-1500to2500_TuneCP5_13p6TeV_madgraphMLM-pythia8/Run3Summer22NanoAODv12/231208_223805/0000/nano_1-2.root
+### Zto2Nu-4Jets_HT-2500
+/store/user/alejands/deepmet/Zto2Nu-4Jets_HT-2500_TuneCP5_13p6TeV_madgraphMLM-pythia8/Run3Summer22NanoAODv12/231208_223819/0000/nano_1.root
+/store/user/alejands/deepmet/Zto2Nu-4Jets_HT-2500_TuneCP5_13p6TeV_madgraphMLM-pythia8/Run3Summer22NanoAODv12/231208_223819/0000/nano_5.root
+/store/user/alejands/deepmet/Zto2Nu-4Jets_HT-2500_TuneCP5_13p6TeV_madgraphMLM-pythia8/Run3Summer22NanoAODv12/231208_223819/0000/nano_8.root
+/store/user/alejands/deepmet/Zto2Nu-4Jets_HT-2500_TuneCP5_13p6TeV_madgraphMLM-pythia8/Run3Summer22NanoAODv12/231208_223819/0000/nano_6.root
+/store/user/alejands/deepmet/Zto2Nu-4Jets_HT-2500_TuneCP5_13p6TeV_madgraphMLM-pythia8/Run3Summer22NanoAODv12/231208_223819/0000/nano_1-2.root
+/store/user/alejands/deepmet/Zto2Nu-4Jets_HT-2500_TuneCP5_13p6TeV_madgraphMLM-pythia8/Run3Summer22NanoAODv12/231208_223819/0000/nano_1-1.root
+/store/user/alejands/deepmet/Zto2Nu-4Jets_HT-2500_TuneCP5_13p6TeV_madgraphMLM-pythia8/Run3Summer22NanoAODv12/231208_223819/0000/nano_1-3.root
+/store/user/alejands/deepmet/Zto2Nu-4Jets_HT-2500_TuneCP5_13p6TeV_madgraphMLM-pythia8/Run3Summer22NanoAODv12/231208_223819/0000/nano_12.root
+/store/user/alejands/deepmet/Zto2Nu-4Jets_HT-2500_TuneCP5_13p6TeV_madgraphMLM-pythia8/Run3Summer22NanoAODv12/231208_223819/0000/nano_11.root
+/store/user/alejands/deepmet/Zto2Nu-4Jets_HT-2500_TuneCP5_13p6TeV_madgraphMLM-pythia8/Run3Summer22NanoAODv12/231208_223819/0000/nano_3.root
+/store/user/alejands/deepmet/Zto2Nu-4Jets_HT-2500_TuneCP5_13p6TeV_madgraphMLM-pythia8/Run3Summer22NanoAODv12/231208_223819/0000/nano_2.root
+/store/user/alejands/deepmet/Zto2Nu-4Jets_HT-2500_TuneCP5_13p6TeV_madgraphMLM-pythia8/Run3Summer22NanoAODv12/231208_223819/0000/nano_7.root
