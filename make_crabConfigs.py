@@ -13,7 +13,7 @@ Generate all crabConfig files using template.
 import argparse
 
 psetName = 'deepmet_NanoAODv12_130X_cfg.py'
-outputDatasetTag = 'Run3Summer22NanoAODv12'
+outputDatasetTag = 'Run3Summer22NanoAODv12-130X_DeepMET'
 
 jobs = [
 ['DYJetsToLL', 1200000,
