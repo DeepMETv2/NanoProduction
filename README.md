@@ -17,7 +17,7 @@ cmsenv
 git cms-merge-topic alejands:130X-DeepMET_NanoV12
 scram b -j 10
 
-git clone git@github.com:alejands/NanoProduction.git
+git clone git@github.com:DeepMETv2/NanoProduction.git
 cd NanoProduction
 ```
 
